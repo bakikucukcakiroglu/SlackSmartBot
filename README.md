@@ -1,3 +1,8 @@
+Members:
+* [Hasan Baki Kucukcakiroglu](https://github.com/bakikucukcakiroglu)
+* [Kardelen Erdal](https://github.com/kardelenerdal)
+
+
 YouTube Link For Stress Testing Presentation: https://youtu.be/ulXYoK8VjzM
 # SlackSmartBot
 
